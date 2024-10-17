@@ -11,7 +11,7 @@ Release:	15.%{cvsdate}cvs
 Summary:	Fonts for Sinhala language
 Group:		System/Fonts/True type
 License:	GPLv2
-URL:	http://sinhala.sourceforge.net/
+URL:	https://sinhala.sourceforge.net/
 # cvs snapshot created with following steps
 #cvs -z3 -d:pserver:anonymous@sinhala.cvs.sourceforge.net:/cvsroot/sinhala co -P sinhala/fonts
 #cd sinhala/fonts/
